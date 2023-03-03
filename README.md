@@ -1,5 +1,7 @@
 # IM-Screens
 
+<!-- https://github.com/jht9629/IM-Screens -->
+
 ## Course Description
 
 Interactive multi-screen experiences
