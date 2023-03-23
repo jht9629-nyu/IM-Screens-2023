@@ -32,7 +32,8 @@ on the floor and street facing areas of the 370 Jay Street campus.
 
 ## Syllabus Overview
 
-**[Week 1:]()** Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit
+- [Week 1](weeks/01_intro.md)
+  Introductions. Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit
 
 **[Week 2:]()** Tooling beyond p5js editor: VS Code, git, bash, nodejs. Creating p5VideoKit effect plugins
 
