@@ -37,23 +37,23 @@ on the floor and street facing areas of the 370 Jay Street campus.
 
 - [Week 2 - 03/30](weeks/02_todo.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs. Creating p5VideoKit effect plugins
 
-- [Week 3 - 04/06/23](weeks/03_todo.md)- Streaming video with WebRTC, javascript, and p5LiveMedia
+- [Week 3 - 04/06](weeks/03_todo.md) Streaming video with WebRTC, javascript, and p5LiveMedia
 
-- [Week 4 - 04/13/23](weeks/04_todo.md)- Pixel manipulation: raw buffers pixels and GLSL shaders.
+- [Week 4 - 04/13](weeks/04_todo.md) Pixel manipulation: raw buffers pixels and GLSL shaders.
 
-- [Week 5 - 04/20/23](weeks/05_todo.md)- Final project proposal
+- [Week 5 - 04/20](weeks/05_todo.md) Final project proposal/review
 
-- [Week 6 - 04/27/23](weeks/06_todo.md)- Final project review
+- [Week 6 - 04/27](weeks/06_todo.md) Final project review
 
-- [Week 7 - 05/04/23](weeks/07_todo.md)- Final project presentation
+- [Week 7 - 05/04](weeks/07_todo.md) Final project presentation
 
 ## Extra Support
 
-- [Office hours: Wednesdays 1pm - 5pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
+- [My Office hours: Wednesdays 1pm - 5pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
   - Please book a time slot at least 6 hours before the time slot.
   - For example: if you want to see me for the 1pm time slot, enter the selection before 7am Wednesday morning.
-  - if these time slots don't work for you email me if your availablity for other possible time to meet.
+  - if these time slots don't work for you email me your availablity for other times to meet.
 
 - [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule)
 - [The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)
