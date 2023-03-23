@@ -32,24 +32,33 @@ on the floor and street facing areas of the 370 Jay Street campus.
 
 ## Syllabus Overview
 
-- [Week 1](weeks/01_intro.md)
+- [Week 1 - 03/23](weeks/01_intro.md)
   Introductions. Local realtime video manipulation in p5js Editor. Introduction to p5VideoKit
 
-**[Week 2:]()** Tooling beyond p5js editor: VS Code, git, bash, nodejs. Creating p5VideoKit effect plugins
+- [Week 2 - 03/30](weeks/02_todo.md) Tooling beyond p5js editor: VS Code, git, bash, nodejs. Creating p5VideoKit effect plugins
 
-**[Week 3:]()** Streaming video with WebRTC, javascript, and p5LiveMedia
+- [Week 3 - 04/06/23](weeks/03_todo.md)- Streaming video with WebRTC, javascript, and p5LiveMedia
 
-**[Week 4:]()** Pixel manipulation: raw buffers pixels and GLSL shaders.
+- [Week 4 - 04/13/23](weeks/04_todo.md)- Pixel manipulation: raw buffers pixels and GLSL shaders.
 
-**[Week 5:]()** Final project proposal
+- [Week 5 - 04/20/23](weeks/05_todo.md)- Final project proposal
 
-**[Week 6:]()** Final project review
+- [Week 6 - 04/27/23](weeks/06_todo.md)- Final project review
 
-**[Week 7:]()** Final project presentation
+- [Week 7 - 05/04/23](weeks/07_todo.md)- Final project presentation
 
-## Office hours
+## Extra Support
 
-- [Office hours: \_\_\_\_]()
+- [Office hours: Wednesdays 1pm - 5pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
+
+  - Please book a time slot at least 6 hours before the time slot.
+  - For example: if you want to see me for the 1pm time slot, enter the selection before 7am Wednesday morning.
+  - if these time slots don't work for you email me if your availablity for other possible time to meet.
+
+- [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule)
+- [The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)
+
+# Policies
 
 ## Evaluation
 
@@ -59,13 +68,28 @@ on the floor and street facing areas of the 370 Jay Street campus.
 - Participation and Attendance 30%
 - Final Project 40%
 
-## Resources
+## STATEMENT OF ACADEMIC INTEGRITY
 
-- [p5js](https://p5js.org/)
-- [p5LiveMedia](https://github.com/vanevery/p5LiveMedia)
-- [ml5js](https://ml5js.org/)
+Plagiarism is presenting someone else’s work as though it were your own -- More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
 
-- [p5VideoKit](https://github.com/jht1493/p5VideoKit)
+## STATEMENT OF PRINCIPLE
 
-- [p5jsShaderExamples](https://github.com/aferriss/p5jsShaderExamples)
-- [p5js-shaders](https://itp-xstory.github.io/p5js-shaders/#/)
+The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members. It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice. Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards. For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at https://tisch.nyu.edu/student-affairs/important-resources/tisch-policies-and-handbooks
+
+## STATEMENT ON ACCESSIBILITY
+
+Please feel free to make suggestions to your instructor about ways in which this class could become more accessible to you. Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information.
+
+## STATEMENT ON COUNSELING AND WELLNESS
+
+Your health and safety are a priority at NYU. If you experience any health or mental health issues during this course, we encourage you to utilize the support services of the 24/7 NYU Wellness Exchange at 212-443-9999. Also, all students who may require academic accommodation due to a qualified disability, physical or mental, please register with the Moses Center at 212-998-4980. Please let your instructor know if you need help connecting to these resources.
+
+## STATEMENT ON USE OF ELECTRONIC DEVICES
+
+Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lectures. Laptops must be closed during class discussions and student presentations. Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
+
+## STATEMENT ON TITLE IX
+
+Tisch School of the Arts to dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender. Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link: Title IX at NYU.
+
+# -- End
