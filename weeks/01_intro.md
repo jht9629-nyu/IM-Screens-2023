@@ -37,11 +37,11 @@
 ## Required Tools
 
 - [Visual Studio Code application](https://code.visualstudio.com/download)
-  -- download to applications
+  -- download to Applications folder
 - [github.com account](https://github.com)
   -- sign up for free account
 - [desktop.github application](https://desktop.github.com)
-  -- download to applications
+  -- download to Applications folder
 
 ## Homework Week01
 
