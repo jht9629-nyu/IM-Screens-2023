@@ -18,7 +18,7 @@ git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
 
 ## Homework Week02
 
-Install a p5js sketch on one of the screens.
+Install a p5js sketch on one of the screens in the hall.
 
 - add a link to your sketch on the [wiki home page](https://github.com/jht9629/IM-Screens/wiki#week-02-homework)
 
