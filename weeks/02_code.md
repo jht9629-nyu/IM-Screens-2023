@@ -12,6 +12,10 @@ git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
 
 - [Apple docs for connecting to installation computers via Screen Sharing](https://support.apple.com/guide/mac-help/share-the-screen-of-another-mac-mh14066/mac#:~:text=On%20the%20Mac%20you%20want,top)%2C%20then%20click%20Done.)
 
+## skin-tone demo
+
+- [skin-tone demo](https://jht1493.net/p5VideoKit/demo/index.html?u=12&d=settings/2022-skin-tone/skin-tone-main-qr.json)
+
 ## Homework Week02
 
 Install a p5js sketch on one of the screens.
