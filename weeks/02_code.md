@@ -1,16 +1,16 @@
 # Week 02 Code
 
-## Share those Screens!
-
-- [Apple docs for connecting to installation computers via Screen Sharing](https://support.apple.com/guide/mac-help/share-the-screen-of-another-mac-mh14066/mac#:~:text=On%20the%20Mac%20you%20want,top)%2C%20then%20click%20Done.)
-
 ## Editing wiki locally
 
 ```
 # Use Terminal to clone wiki
+# https://github.com/jht9629-nyu/IM-Screens-2023/wiki
 git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
-https://github.com/jht9629-nyu/IM-Screens-2023/wiki
 ```
+
+## Share those Screens!
+
+- [Apple docs for connecting to installation computers via Screen Sharing](https://support.apple.com/guide/mac-help/share-the-screen-of-another-mac-mh14066/mac#:~:text=On%20the%20Mac%20you%20want,top)%2C%20then%20click%20Done.)
 
 ## Homework Week02
 
