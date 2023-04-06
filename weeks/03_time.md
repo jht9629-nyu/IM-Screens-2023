@@ -1,10 +1,10 @@
-# Week 03 Live Media
+# Week 03 Time
 
-## XXXX
+## Using Time
 
 ## Homework Week03
 
-- xxxx
+- Create a p5js sketch that reacts to time and plays full screen. If you use some other web-base tech create a p5js sketch that links to it.
 
 - add a link to your sketch on the [wiki home page](https://github.com/jht9629/IM-Screens/wiki#week-03-homework)
 
