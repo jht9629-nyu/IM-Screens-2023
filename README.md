@@ -41,7 +41,7 @@ on the floor and street facing areas of the 370 Jay Street campus.
 
 - [Week 3 - 04/06](weeks/03_time.md) Time as input
 
-- [Week 4 - 04/13](weeks/04_todo.md) Pixel manipulation: raw buffers pixels and GLSL shaders.
+- [Week 4 - 04/13](weeks/04_video.md) Pixel manipulation: raw buffers pixels and GLSL shaders. p5VideoKit effects and plugins.
 
 - [Week 5 - 04/20](weeks/05_todo.md) Final project proposal/review
 
