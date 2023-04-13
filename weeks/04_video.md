@@ -20,6 +20,8 @@ https://github.com/jht1493/p5VideoKit
 - creating a plugin
 - bin/build.sh
 
+- [skin-tone-main-qr](https://jht1493.net/p5VideoKit/demo/index.html?u=12&d=videoKit/settings/2022-skin-tone/skin-tone-main-qr.json)
+
 ## Homework Week04
 
 - prepare your final project proposal - or continue working on final project if already started
