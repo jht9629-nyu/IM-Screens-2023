@@ -31,12 +31,14 @@ https://github.com/jht1493/p5VideoKit
 
 - shader effects examples and WEBGL p5VideoKit integration
 
+- [3d-shader-webcam-shade](https://editor.p5js.org/jht1493/sketches/EuwnL3gxd)
+
 - maze bits as effects plugin
 - [new p5VideoKit effect: maze-spin](https://jht1493.net/p5VideoKit/demo/index.html?u=4&d=settings/2x2-maze-spin-cycle-0-1-2.json)
 
 ## skin-tone update
 
-- [skin-tone-main-qr update](hhttps://jht1493.net/p5VideoKit/demo/index.html?u=8&d=settings/skin-tone-main-qr.json)
+- [skin-tone-main-qr update](https://jht1493.net/p5VideoKit/demo/index.html?u=8&d=settings/skin-tone-main-qr.json)
 
 ## p5VideoKit and electron
 
