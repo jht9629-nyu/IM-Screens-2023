@@ -40,7 +40,7 @@ https://github.com/jht1493/p5VideoKit
 
 ## nodejs setup
 
-- nodejs neede to run p5VideoKit/bin/build.sh
+- nodejs needed to run p5VideoKit/bin/build.sh
 
 [https://nodejs.org/en/download](https://nodejs.org/en/download)
 
