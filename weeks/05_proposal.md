@@ -33,6 +33,8 @@ https://github.com/jht1493/p5VideoKit
 
 - [3d-shader-webcam-shade](https://editor.p5js.org/jht1493/sketches/EuwnL3gxd)
 
+- [3d-shader-using-webcam.html](https://p5js.org/examples/3d-shader-using-webcam.html)
+
 - maze bits as effects plugin
 - [new p5VideoKit effect: maze-spin](https://jht1493.net/p5VideoKit/demo/index.html?u=4&d=settings/2x2-maze-spin-cycle-0-1-2.json)
 
