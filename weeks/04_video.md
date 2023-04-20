@@ -39,6 +39,6 @@ https://github.com/jht1493/p5VideoKit
   - give feedback via p5VideoKit issues
   - pull request to add your plugin
 
-- add a link to your sketch or git repo on the [wiki home page](https://github.com/jht9629/IM-Screens/wiki#week-03-homework)
+- add a link to your sketch or git repo on the [wiki home page](https://github.com/jht9629/IM-Screens/wiki#week-04-homework)
 
 - enter any questions or notes on your wiki page
