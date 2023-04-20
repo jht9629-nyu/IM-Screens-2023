@@ -2,6 +2,8 @@
 
 ## screens usage protocol
 
+- [IM-Screens 2023 timeslot](https://docs.google.com/spreadsheets/d/1eMLdZauqS5qzDRSNc-vvDSxh_qcqqEmpMbMYTgt_4w4/edit#gid=0)
+
 - use Notes app to document setup link
 
 ## maze bits evolution
