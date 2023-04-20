@@ -44,8 +44,9 @@ https://github.com/jht1493/p5VideoKit
 // Firebase-createImg-board
 
 // Use of url parameter to customize sketch
-// https://mobilelabclass-itp.github.io/98-MoGallery-p5js/p5js_demos/createImg-board/
-// https://mobilelabclass-itp.github.io/98-MoGallery-p5js/p5js_demos/createImg-board/?gallery=-ims
+// note version to verify github pages deployed
+// https://mobilelabclass-itp.github.io/98-MoGallery-p5js/p5js_demos/createImg-board/?gallery=web
+// https://mobilelabclass-itp.github.io/98-MoGallery-p5js/p5js_demos/createImg-board/?gallery=ims-web
 
 ```
 
