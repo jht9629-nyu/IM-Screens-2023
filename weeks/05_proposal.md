@@ -1,12 +1,10 @@
 # Week 05
 
-## p5VideoKit Update
+## screens usage protocol
 
-https://github.com/jht1493/p5VideoKit
+- use Notes app to document setup link
 
-- p5VideoKit re-organization
-
-- [new p5VideoKit effect: maze-spin](https://jht1493.net/p5VideoKit/demo/index.html?u=4&d=settings/2x2-maze-spin-cycle-0-1-2.json)
+## maze bits evolution
 
 ```
 // evolving from previous maze tile bits example
@@ -22,6 +20,17 @@ https://github.com/jht1493/p5VideoKit
 // https://github.com/jht9629-nyu/my-p5js-repo-2023/tree/main/p5-projects/maze_tiles_bits
 
 ```
+
+## p5VideoKit Update
+
+https://github.com/jht1493/p5VideoKit
+
+- p5VideoKit re-organization
+
+- shader effects examples and WEBGL p5VideoKit integration
+
+- maze bits as effects plugin
+- [new p5VideoKit effect: maze-spin](https://jht1493.net/p5VideoKit/demo/index.html?u=4&d=settings/2x2-maze-spin-cycle-0-1-2.json)
 
 ## skin-tone update
 
