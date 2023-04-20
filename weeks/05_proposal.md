@@ -38,6 +38,13 @@ https://github.com/jht1493/p5VideoKit
 
 - [skin-tone-main-qr update](hhttps://jht1493.net/p5VideoKit/demo/index.html?u=8&d=settings/skin-tone-main-qr.json)
 
+## p5VideoKit and electron
+
+```
+# record video and save to Documents/projects/p5VideoKit-gallery-yoyo
+bin/run-gallery-yoyo.sh
+```
+
 ## Final Project proposal - update
 
 - what do you need?
@@ -69,6 +76,6 @@ https://github.com/jht1493/p5VideoKit
 
 ## my-p5js-repo
 
-- nodejs used in my-p5js-repo
+- nodejs used in my-p5js-repo to automate download of your p5js editor sketches
 
 [my-p5js-repo](https://github.com/jht9629-nyu/my-p5js-repo-2023)
