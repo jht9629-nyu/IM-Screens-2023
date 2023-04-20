@@ -36,6 +36,17 @@ https://github.com/jht1493/p5VideoKit
 // for Mat
 // https://editor.p5js.org/jht9629-nyu/sketches/-t2O5JfBr
 // timed-drawing
+
+// starting point for api for saving points
+// https://github.com/mobilelabclass-itp/98-MoGallery-p5js
+
+// https://editor.p5js.org/jht1493/sketches/5LgILr8RF
+// Firebase-createImg-board
+
+// Use of url parameter to customize sketch
+// https://mobilelabclass-itp.github.io/98-MoGallery-p5js/p5js_demos/createImg-board/
+// https://mobilelabclass-itp.github.io/98-MoGallery-p5js/p5js_demos/createImg-board/?gallery=-ims
+
 ```
 
 ## nodejs setup
